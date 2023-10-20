@@ -1,3 +1,13 @@
+Hello Everyone,
+
+Name is Smit Surati (d22it194), my Sgp Partner vineet gajjar (d22it204). our sgp mentor is prof. RAJNIK S KATRIYA. 
+PROJECT TITILE :- P-INFO (Pharmaceutical Information)
+Description :- The project is basically  android application. made with flutter & dart language.
+functions :- home page , call page , near by health center , blog page , 
+
+in our application we add basic information  about diseases  & their basic understanding that how we acn cures from it. like asthma, body pain , cold & cough etc..
+
+
 # gocare
 
 A new Flutter project.
